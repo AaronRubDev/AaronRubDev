@@ -1,9 +1,9 @@
 ![Aaron Rubi Banner](https://github.com/user-attachments/assets/7321a567-7cb7-4210-b314-14c427210326)
 
 <h1 align="center">Hi 👋, I am Aaron 🎮</h1> 
-<!--  -->A
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Success+is+the+sum;++;of+small+efforts;++;repeated+day+in+and+day+"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Success+is+the+sum+of+small+efforts+repeated+day+in+and+day+"></a>
 </p>
 
 
