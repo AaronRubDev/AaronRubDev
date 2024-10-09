@@ -12,12 +12,13 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 📱 Android Developer
-- 🔭 I’m currently working on Ford Motor Company
-- 👯 I’m looking to collaborate on innovative Android apps that make everyday tasks easier and more enjoyable.
-- 🤔 I’m looking for help with exploring new libraries and frameworks to optimize app performance and user experience.
-- 💬 Ask me about Android development, UI/UX best practices, or my latest app project.
 
+  - 📱 Android Developer
+  - 🌟 Main language: Kotlin, Java
+  - 💻 I’m currently working at Ford Motor Company
+  - 👯 I’m looking to collaborate on innovative Android apps that make everyday tasks easier and more enjoyable.
+  - 🤔 I’m looking for help with exploring new libraries and frameworks to optimize app performance and user experience.
+  - 💬 Ask me about Android development, UI/UX best practices, or my latest app project.
 
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -27,11 +28,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aaron-mendoza-rubi-94372b224/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/aaron-mendoza-rubi-94372b224/" target="blank">
+    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" />
   </a>
   
+  <br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -62,3 +66,5 @@
 
 ![aaronrubdev's Stats](https://github-readme-stats.vercel.app/api?username=aaronrubdev&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![aaronrubdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaronrubdev&theme=tokyonight&hide_border=false)
+
+🙋‍♂️ Thank you for visiting my GitHub profile!
