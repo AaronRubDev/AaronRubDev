@@ -20,6 +20,9 @@
 - 🤔 I’m looking for help with exploring new libraries and frameworks to optimize app performance and user experience.
 - 💬 Ask me about Android development, UI/UX best practices, or my latest app project.
 
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +30,11 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" />
   </a>
-
+  
+<br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -39,8 +46,12 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
 
 <br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
 
-<i>Happy Coding!</i> 😊
+<i>Happy Coding!</i> 😎
+
+<br>
 
 </div>
 
